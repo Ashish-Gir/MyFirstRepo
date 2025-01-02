@@ -1,2 +1,2 @@
 # MyFirstRepo
-Just Demo
+Just Demo Repo
